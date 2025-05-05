@@ -1,6 +1,7 @@
 # MOAR
-Projekat za Matematičke osnove automatskog rezonovanja
 
-MOAR - izborni predmet na trećoj godini Elektrotehničkog fakulteta Univerziteta u Beogradu - odseku za Signale i sisteme
-Zajednički rad sa kolegom Lukom Veličkovićem - [GitHub](https://github.com/Cevilko)
+Конволутивна неурална мрежа са задатком да ради бинарну класификацију слика на којима су пси и мачке. Комплетан код је писан у Python-у, а у оквиру Google Colab свеске како би тренирање модела не би било рађено на локалном рачунару због расположивих капацитета. Већи део пројекта већ постоји на адреси [Image clasification from scratch](https://keras.io/examples/vision/image_classification_from_scratch).
 
+Код представља студентски пројекат у оквиру предмета Математичке основе аутоматско резоновања на Електротехничком факултету Универзитета у Београду, на трећој години одсека за Сигнале и системе.
+
+Пројекат рађен у сарадњи са [Cevilko](https://github.com/Cevilko).
